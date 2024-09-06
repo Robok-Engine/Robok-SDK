@@ -1,11 +1,12 @@
-package robok.game.screen;
+package org.robok.game.screen;
 
 import android.app.Activity;
 import android.os.Bundle;
 
 public class GameScreen extends Activity {
 
-     /* This screen will be used on all game screens.
+     /*
+     * This screen will be used on all game screens.
      * TO-DO: System to 3D Game Activity.
      */
 

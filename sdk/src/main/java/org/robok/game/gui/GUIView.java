@@ -1,4 +1,4 @@
-package robok.game.gui;
+package org.robok.game.gui;
 
 import android.view.View;
 
