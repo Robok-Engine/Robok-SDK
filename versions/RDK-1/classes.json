@@ -1,24 +1,24 @@
 [
    {
-      "class_name": "GUIView",
-      "class_package_name": "org.robok.game.gui.GuiView"
+      "className": "GUIView",
+      "classPackageName": "org.robok.game.gui.GuiView"
    },   
    {
-      "class_name": "GUIViewListener",
-      "class_package_name": "org.robok.game.gui.GuiViewListener"
+      "className": "GUIViewListener",
+      "classPackageName": "org.robok.game.gui.GuiViewListener"
    },
    {
-      "class_name": "BasicButton",
-      "class_package_name": "org.robok.game.gui.button.BasicButton"
-   },
-   
-   {
-      "class_name": "ObjectView",
-      "class_package_name": "org.robok.game.object"
+      "className": "BasicButton",
+      "classPackageName": "org.robok.game.gui.button.BasicButton"
    },
    
    {
-      "class_name": "GameScreen",
-      "class_package_name": "org.robok.game.screen"
+      "className": "ObjectView",
+      "classPackageName": "org.robok.game.object"
+   },
+   
+   {
+      "className": "GameScreen",
+      "classPackageName": "org.robok.game.screen"
    }
 ]
