@@ -1,0 +1,24 @@
+[
+   {
+      "class_name": "GUIView",
+      "class_package_name": "org.robok.game.gui.GuiView"
+   },   
+   {
+      "class_name": "GUIViewListener",
+      "class_package_name": "org.robok.game.gui.GuiViewListener"
+   },
+   {
+      "class_name": "BasicButton",
+      "class_package_name": "org.robok.game.gui.button.BasicButton"
+   },
+   
+   {
+      "class_name": "ObjectView",
+      "class_package_name": "org.robok.game.object"
+   },
+   
+   {
+      "class_name": "GameScreen",
+      "class_package_name": "org.robok.game.screen"
+   }
+]
