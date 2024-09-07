@@ -11,14 +11,12 @@
       "className": "BasicButton",
       "classPackageName": "org.robok.game.gui.button.BasicButton"
    },
-   
    {
       "className": "ObjectView",
-      "classPackageName": "org.robok.game.object"
+      "classPackageName": "org.robok.game.object.ObjectView"
    },
-   
    {
       "className": "GameScreen",
-      "classPackageName": "org.robok.game.screen"
+      "classPackageName": "org.robok.game.screen.GameScreen"
    }
 ]
