@@ -1,4 +1,4 @@
-package org.robok.game.screen;
+package robok.game.screen;
 
 import android.app.Activity;
 import android.os.Bundle;
