@@ -17,4 +17,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Robok-SDK"
 
-include(":sdk")
+include(":robok-sdk")
